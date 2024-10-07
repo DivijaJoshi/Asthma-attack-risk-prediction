@@ -1,11 +1,10 @@
-google_api_python_client
+google-api-python-client
 joblib
 matplotlib
 numpy
 pandas
 protobuf
-scikit_learn
+scikit-learn
 seaborn
 streamlit
 streamlit_echarts
-distutils
