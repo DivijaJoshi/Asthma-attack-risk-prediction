@@ -1,0 +1,26 @@
+[
+    {
+        "work": 3,
+        "cough": 4,
+        "chest_tig": 2,
+        "medc_usage": 1,
+        "prev_attack": 0,
+        "smoke": 0,
+        "fam_asthma": 1,
+        "AQI": 100,
+        "prediction": "High risk",
+        "probability": "85.00%"
+    },
+    {
+        "work": 2,
+        "cough": 1,
+        "chest_tig": 1,
+        "medc_usage": 0,
+        "prev_attack": 0,
+        "smoke": 0,
+        "fam_asthma": 0,
+        "AQI": 50,
+        "prediction": "Low risk",
+        "probability": "15.00%"
+    }
+]
